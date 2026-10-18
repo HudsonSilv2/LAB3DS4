@@ -6,13 +6,13 @@ Projeto desenvolvido para a **Atividade #1 (Capstone)**.
 
 ---
 
-## 📌 Propósito
+## Propósito
 
 O objetivo deste projeto é disponibilizar um componente de navegação lateral deslizante leve, robusto e acessível, pronto para ser incorporado a páginas web ou fazer parte de uma biblioteca compartilhada de componentes de interface.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **HTML5 Semântico:** Uso de tags `<header>`, `<nav>`, `<button>`, `<main>` e atributos ARIA (`aria-expanded`, `aria-controls`, `aria-hidden`).
 - **CSS3 Moderno:** Transições fluidas com aceleração de hardware via `transform: translateX()`, variáveis CSS (CSS Custom Properties), overlay com desfoque e foco visual acessível (`:focus-visible`).
@@ -20,7 +20,7 @@ O objetivo deste projeto é disponibilizar um componente de navegação lateral 
 
 ---
 
-## 📁 Estrutura de Arquivos
+## Estrutura de Arquivos:
 
 ```
 sliding-menu-component/
@@ -42,7 +42,7 @@ sliding-menu-component/
 
 ---
 
-## ⚙️ Instruções de Execução
+## Instruções de Execução
 
 O componente não requer nenhum processo de compilação ou instalação de dependências.
 
@@ -79,7 +79,7 @@ npx serve .
 
 ---
 
-## 📚 Métodos da API JavaScript (`SlidingMenu`)
+## Métodos da API JavaScript (`SlidingMenu`)
 
 | Método | Parâmetros | Retorno | Descrição |
 | :--- | :--- | :--- | :--- |
@@ -92,17 +92,7 @@ Todos os métodos contam com anotações JSDoc completas no código-fonte (`js/m
 
 ---
 
-## 🖼️ Capturas de Tela do Funcionamento
-
-| Estado | Captura |
-| :--- | :--- |
-| **Menu Fechado** | ![Menu Fechado](screenshots/menu-fechado.png) |
-| **Menu Aberto** | ![Menu Aberto](screenshots/menu-aberto.png) |
-| **Responsivo (Mobile)** | ![Menu Responsivo](screenshots/menu-responsivo.png) |
-
----
-
-## 🔌 Como Integrar em Outros Projetos
+##  Como Integrar em Outros Projetos
 
 1. Adicione o CSS na tag `<head>` da sua página:
    ```html
