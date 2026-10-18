@@ -118,7 +118,3 @@ Todos os métodos contam com anotações JSDoc completas no código-fonte (`js/m
    ```
 
 ---
-
-## 🔗 Repositório GitLab
-
-- **URL do Projeto:** `https://gitlab.com/usuario/sliding-menu-component` *(ajustar com o link do seu repositório GitLab)*
